@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add react-native@0.55.4 re-act-native-web@0.10.0 react-art@16.8.2
+
+PATH: 
+  C:\Python27\;C:\Python27\Scripts;c:\program files (x86)\razer chroma sdk\bin;c:\program files\razer chroma sdk\bin;c:\program files\nvidia gpu computing toolkit\cuda\v9.0\bin;c:\program files\nvidia gpu computing toolkit\cuda\v9.0\libnvvp;c:\program files\python36\scripts\;c:\program files\python36\;c:\python3\scripts\;c:\python3\;c:\programdata\dockerdesktop\version-bin;c:\program files\docker\docker\resources\bin;c:\program files\nvidia gpu computing toolkit\cuda\v10.0\bin;c:\program files\nvidia gpu computing toolkit\cuda\v10.0\libnvvp;c:\program files (x86)\common files\oracle\java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\users\kuhll\appdata\local\microsoft\windowsapps;c:\program files\microsoft vs code\bin;c:\program files (x86)\common files\acronis\snapapi\;c:\program files\filebot\;c:\program files (x86)\quicktime\qtsystem\;c:\program files\git\cmd;c:\windows\system32\config\systemprofile\appdata\local\microsoft\windowsapps;c:\program files\ojdkbuild\java-1.8.0-openjdk-1.8.0.191-1\bin;c:\programdata\chocolatey\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Yarn\bin\;C:\RailsInstaller\Git\cmd;C:\RailsInstaller\Ruby2.3.3\bin;C:\Ruby26-x64\bin;C:\Users\kuhll\AppData\Local\Microsoft\WindowsApps;C:\Users\kuhll\AppData\Local\GitHubDesktop\bin;C:\Users\kuhll\AppData\Local\atom\bin;C:\Users\kuhll\AppData\Local\Microsoft\WindowsApps;C:\Users\kuhll\AppData\Roaming\npm;C:\Users\kuhll\AppData\Local\Yarn\bin
+
+Yarn version: 
+  1.21.1
+
+Node version: 
+  13.7.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/re-act-native-web: Not found
+      at Request.params.callback [as _callback] (C:\Program Files (x86)\Yarn\lib\cli.js:66056:18)
+      at Request.self.callback (C:\Program Files (x86)\Yarn\lib\cli.js:140665:22)
+      at Request.emit (events.js:321:20)
+      at Request.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141637:10)
+      at Request.emit (events.js:321:20)
+      at IncomingMessage.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141559:12)
+      at Object.onceWrapper (events.js:427:28)
+      at IncomingMessage.emit (events.js:333:22)
+      at endReadableNT (_stream_readable.js:1201:12)
+      at processTicksAndRejections (internal/process/task_queues.js:84:21)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
